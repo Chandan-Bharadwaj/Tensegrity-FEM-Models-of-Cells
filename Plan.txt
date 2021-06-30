@@ -1,0 +1,48 @@
+
+1)  Open 'Main_code_1_tensegrities.m' or 'Main_code_2_cell_models.m'
+2) In the Model Generation section,  select tensegrity structure or cell model to be genereted 
+- The correspoinding tensegrity structure or cell model will be displayred along with the mode shapes( from eigen value analysis)
+- Corresponding APDL Macro codes will be printed onto the console 
+3) Copy and paste the APDL codes onto a macro script which will help  generate a line model of the cell in Ansys Mechanical APDL.
+
+A mathematical/Geometrical value as well as a cell dynamics value
+-------------
+Functionality
+-------------
+- Generate Tensegrity
+- Validate, parametrics calculation
+- Display 
+- Form Finding
+- Different Configurations
+
+
+- APDL macro codes ????
+
+
+-------------
+Function Categorites
+-------------
+- Generate
+- Validate
+- Display
+
+
+-------------
+Different Activities that can be done
+-------------
+- a fun tool to generate tensegrities
+	- prismatic, spherical (6, 12 , 30, others) , planar
+- generate our own tensegrity and form find the nearest match
+- generate tensegrity cell models
+	- change dimensions, nucleus positions, etc
+- a collection of cells to create an environment
+- 
+
+----------
+Contents of the basic version
+----------
+- generate a variety of tensegrities
+- basic form finding
+- combination of tensegrities
+- explain nice concepts (hirearchy of life) using good examples
+- ansys simulation template
