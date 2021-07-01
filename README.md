@@ -24,7 +24,7 @@ Form Finding of a new tensegrity
 3) Make a new tensegrity structure - make a new elements connections data and obtain a stable form of the new tensegrity
 
 
-![image](https://user-images.githubusercontent.com/85007096/124066808-f822b980-da56-11eb-9d32-c7f7c17c22d3.png)
+![image](https://user-images.githubusercontent.com/85007096/124070416-72553d00-da5b-11eb-8eb6-2f123a3a8158.png)
 ![image](https://user-images.githubusercontent.com/85007096/124067339-e261c400-da57-11eb-8399-e669bf87f85d.png)
 ![image](https://user-images.githubusercontent.com/85007096/124066892-12f52e00-da57-11eb-9d22-ed7def0b5f9d.png)
 ![image](https://user-images.githubusercontent.com/85007096/124066896-14bef180-da57-11eb-9bdd-e977487b1651.png)
