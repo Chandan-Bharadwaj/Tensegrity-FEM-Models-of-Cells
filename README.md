@@ -2,8 +2,8 @@
  Generate FE line Models of biological cells using Spherical tensegrity structures
 
 This repository contans three main programs
-Main_code_1_tensegrities.m
-Main_code_2_cell_models.m
+Main_code_1_tensegrities.m ,
+Main_code_2_cell_models.m and
 Main_code_3_Form_Finding.m
 
 These serve the purpose of using standard tensegrity structures and generate cell models out of them
