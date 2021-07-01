@@ -22,11 +22,8 @@ Radius = 10;
 %     [nodeCoordinates,elementNodes,struts,cables,interfil] = generate_6_strut_tensegrity(Radius,1,0);
 
 % twelve strut spherical cuboctahedron tensegrity
-%       [nodeCoordinates,elementNodes,struts,cables,interfil] = generate_12_strut_cuboctahedron_tensegrity(Radius,1);
+      [nodeCoordinates,elementNodes,struts,cables,interfil] = generate_12_strut_cuboctahedron_tensegrity(Radius,1);
 
-% thirty strut spherical icosidodecahedron tensegrity
-      [nodeCoordinates,elementNodes,struts,cables,interfil] = generate_30_strut_icosidodecahedron_tensegrity(Radius,1);
- 
 %  Randomizing tensegrity nodes
  nodeCoordinates = rand(size(nodeCoordinates));  
  
@@ -36,7 +33,7 @@ Radius = 10;
 
     % Make your own element connections 
 % ex. planar tensegrity
-% nodeCoordinates = [1 2 3 4 5 6;9 0 8 7 6 -100;0 0 0 0 0 0]';
+% nodeCoordinates = [1 2 3 4 15 6;9 0 18 7 6 -10;0 0 0 0 0 0]';
 % elementNodes = [1 4; 2 5 ; 3 6; 1 2 ; 2 3; 3 4; 4 5; 5 6; 6 1];
 % struts = [1 2 3];
 % cables = [ 4 5 6 7 8 9];  

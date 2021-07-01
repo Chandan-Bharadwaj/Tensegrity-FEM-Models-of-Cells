@@ -33,17 +33,13 @@ end
 % bright pink - [1.0000    0.2000    0.8941]
 
 
+% marking of nodes
+scatter3(X,Y,Z,120,'.k')
 % naming of nodes
-% for el = 1:length(X)
-%      scatter3(X(el),Y(el),Z(el),200,'.k')
-%      hold on
-% end
-
-% for el =1:length(X)
-%      scatter3(X(el),Y(el),Z(el),50,'.k')
-%      text(X(el),Y(el),Z(el),"  "+el,'FontSize',10)
-%      hold on
-% end
+for el =1:length(X)
+     text(X(el),Y(el),Z(el),"  "+el,'FontSize',8)
+     hold on
+end
 
 
 % for ii = 1:12
