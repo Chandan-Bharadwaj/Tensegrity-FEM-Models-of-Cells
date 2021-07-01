@@ -9,7 +9,7 @@
 
 % 2 ways of observing functionality of function findform()
 %  1) generate a standard tensegrity -> randomize its nodes -> get back the original form through form finding (using elements data)
-%  2) Make a new tensegrity structure - make you own elements connections
+%  2) Make a new tensegrity structure - make your own elements connections
 %       and obtain a stable form of the new tensegrity
 
 % 1) Using standard tensegrities
