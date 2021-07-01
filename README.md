@@ -6,15 +6,15 @@ Main_code_1_tensegrities.m ,
 Main_code_2_cell_models.m and
 Main_code_3_Form_Finding.m
 
-These serve the purpose of using standard tensegrity structures and generate cell models out of them
-a new stable tensegrity structure can be created using the numerical form finding technique
+- These serve the purpose of using standard tensegrity structures and generate cell models out of them
+- a new stable tensegrity structure can be created using the numerical form finding technique
 
 Generate Cell models
 
 1)  Open 'Main_code_1_tensegrities.m' or 'Main_code_2_cell_models.m'
 2) In the Model Generation section,  select tensegrity structure or cell model to be generated 
-- The corresponding tensegrity structure or cell model will be displayed along with the mode shapes( from eigenvalue analysis)
-- Corresponding APDL Macro codes will be printed onto the console 
+  -  The corresponding tensegrity structure or cell model will be displayed along with the mode shapes( from eigenvalue analysis)
+  -  Corresponding APDL Macro codes will be printed onto the console 
 3) Copy and paste the APDL codes onto a macro script which will help generate a line model of the cell in Ansys Mechanical APDL.
 
 Form Finding of a new tensegrity
