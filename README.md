@@ -29,7 +29,6 @@ Main_code_3_Form_Finding.m
 ![image](https://user-images.githubusercontent.com/85007096/124547046-2cc4b580-de49-11eb-97ec-1a5394f9e995.png)
 
 ![image](https://user-images.githubusercontent.com/85007096/124067339-e261c400-da57-11eb-8399-e669bf87f85d.png)
-![image](https://user-images.githubusercontent.com/85007096/124547879-782b9380-de4a-11eb-90b1-3dffe32286ca.png)
 
 # What the codes can do 
 
