@@ -34,7 +34,7 @@ Main_code_3_Form_Finding.m
 
 ![image](https://user-images.githubusercontent.com/85007096/124066892-12f52e00-da57-11eb-9d22-ed7def0b5f9d.png)
 
-![image](https://user-images.githubusercontent.com/85007096/124066896-14bef180-da57-11eb-9bdd-e977487b1651.png)
+![image](https://user-images.githubusercontent.com/85007096/125106739-9d93f800-e0fd-11eb-8494-d62afef09d8b.png)
 
 ![image](https://user-images.githubusercontent.com/85007096/124066900-1688b500-da57-11eb-9e8e-dfc756416e5a.png)
 
