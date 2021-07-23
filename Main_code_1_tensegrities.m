@@ -1,7 +1,7 @@
 clc;
 clear ; 
 close all
-
+addpath('Scripts')
 %% properties and boundry conditions of tensegrity structure (input)
 
 Radius = (18e-6)/2;  % radius of cell - Osteoblast (bone cell)

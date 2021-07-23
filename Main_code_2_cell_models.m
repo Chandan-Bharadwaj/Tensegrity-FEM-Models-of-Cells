@@ -1,6 +1,7 @@
 clc;
 clear;
 close all
+addpath('Scripts')
 %% properties and boundry conditions of tensegrity structure (input)
 
 % canceroes cell
@@ -64,8 +65,8 @@ cytoStruts = [];cytoCables = [];nucleoStruts = [];nucleoCables = [];
 % fixed_nodes = [1 14 44];
 
 %  cell model 30 to 6 strut tensegrity
-%     [nodeCoordinates,elementNodes,struts,cables,interfil,cytoStruts,cytoCables,nucleoStruts,nucleoCables] = cell_model_30_to_6(Radius_cell,Radius_nucleus,0);
-% fixed_nodes = [1 14 44];
+    [nodeCoordinates,elementNodes,struts,cables,interfil,cytoStruts,cytoCables,nucleoStruts,nucleoCables] = cell_model_30_to_6(Radius_cell,Radius_nucleus,0);
+fixed_nodes = [1 14 44];
 
 %  cell model 6 to 30 strut tensegrity
 %     [nodeCoordinates,elementNodes,struts,cables,interfil,cytoStruts,cytoCables,nucleoStruts,nucleoCables] = cell_model_6_to_30(Radius_cell,Radius_nucleus);

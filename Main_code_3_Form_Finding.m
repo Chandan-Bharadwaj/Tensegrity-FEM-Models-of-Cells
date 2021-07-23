@@ -1,3 +1,5 @@
+addpath('Scripts')
+
 %================================================
 % Form Finding
 %   - refine the node structure using numerical form finding technique 
