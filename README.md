@@ -39,3 +39,7 @@ Main_code_3_Form_Finding.m
 ![image](https://user-images.githubusercontent.com/85007096/124066900-1688b500-da57-11eb-9e8e-dfc756416e5a.png)
 
 ![image](https://user-images.githubusercontent.com/85007096/124073811-29ec4e00-da60-11eb-820d-3bd55df8c65d.png)
+
+# References 
+- Presentation by Dr Donald Ingber (a pioneer in the present topic) - https://www.youtube.com/watch?v=w8QZGOIQxXQ, https://www.youtube.com/watch?v=YdvE-sawpXs&t=416s
+- Scarr, G., 2014, Biotensegrity: The Structural Basis of Life, Handspring Publishing, Scotland. http://www.tensegrityinbiology.co.uk/ 
