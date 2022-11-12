@@ -12,7 +12,9 @@ Main_code_3_Form_Finding.m
 ## Theory
 
 In recent years, Studies on the mechanics of a cell have increased significantly. Many essential cell functions such as growth, proliferation and locomotion directly involve mechanical forces. It is found that observing the dynamics of a cell can very well indicate the condition of a cell i.e., whether it is healthy or in disease. Such explorations have the potential to bring out the largely unknown mechanisms of disease such as cancer.
+
 The cytoskeleton of the cell is a key contributor in the generation of mechanical forces in the cell. These mechanical forces play a major role in many essential processes of a cell such as growth, proliferation and metastasis. More insight into such dynamic behaviour of cells is required in order to design better treatment for diseases such as cancer. 
+
 Tensegrity structures are flexible structures made of simple compressive and tensional elements which are in equilibrium. There is sufficient evidence that the cytoskeleton of a cell surprisingly exhibits similarities with the dynamics of a prestressed tensegrity structure. They are found to mimic the behavior of a cytoskeleton in many ways. These structures offer a promising way to develop a prospective yet simple model of the complex cytoskeleton.
 
 ## Generate Cell models
