@@ -15,7 +15,7 @@ In recent years, Studies on the mechanics of a cell have increased significantly
 
 The cytoskeleton of the cell is a key contributor in the generation of mechanical forces in the cell. These mechanical forces play a major role in many essential processes of a cell such as growth, proliferation and metastasis. More insight into such dynamic behaviour of cells is required in order to design better treatment for diseases such as cancer. 
 
-Tensegrity structures are flexible structures made of simple compressive and tensional elements which are in equilibrium. There is sufficient evidence that the cytoskeleton of a cell surprisingly exhibits similarities with the dynamics of a prestressed tensegrity structure. They are found to mimic the behavior of a cytoskeleton in many ways. These structures offer a promising way to develop a prospective yet simple model of the complex cytoskeleton.
+Tensegrity structures are prestressed flexible structures made of simple compressive and tensional elements which are in equilibrium. There is sufficient evidence that the cytoskeleton of a cell surprisingly exhibits similarities with the dynamics of a tensegrity structure. They are found to mimic the behavior of a cytoskeleton in many ways. These structures offer a promising way to develop a prospective yet simple model of the complex cytoskeleton.
 
 ## Generate Cell models
 
