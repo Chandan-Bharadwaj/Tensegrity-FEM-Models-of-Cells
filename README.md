@@ -2,9 +2,9 @@
  Generate FE line Models of biological cells using Spherical tensegrity structures
 
 This repository contans three main programs
-Main_code_1_tensegrities.m ,
-Main_code_2_cell_models.m and
-Main_code_3_Form_Finding.m
+generate_tensegrities.m ,
+generate_cell_models.m and
+numerical_form_finding.m
 
 - These serve the purpose of using standard tensegrity structures and generate cell models out of them
 - a new stable tensegrity structure can be created using the numerical form finding technique
@@ -19,7 +19,7 @@ Tensegrity structures are prestressed flexible structures made of simple compres
 
 ## Generate Cell models
 
-1)  Open 'Main_code_1_tensegrities.m' or 'Main_code_2_cell_models.m'
+1)  Open 'generate_tensegrities.m' or 'generate_cell_models.m'
 2) In the Model Generation section,  select tensegrity structure or cell model to be generated and run the code
   -  The corresponding tensegrity structure or cell model will be displayed along with the mode shapes( from eigenvalue analysis)
   -  Corresponding APDL Macro codes will be printed onto the console 
@@ -27,7 +27,7 @@ Tensegrity structures are prestressed flexible structures made of simple compres
 
 ## Form Finding of a new tensegrity
 
-1) Open "Main_code_3_Form_Finding.m" 
+1) Open "numerical_form_finding.m" 
 2) the code can be used to execute either of the following cases:
  - generate a standard tensegrity -> randomize its nodes -> get back the original form through form-finding (using elements data)
  - Make a new tensegrity structure - make a new elements connections data and obtain a stable form of the new tensegrity
